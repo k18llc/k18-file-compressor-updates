@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.0",
-    "signature":  "",
-    "google_drive_file_id":  "",
-    "sha256":  "",
-    "notes":  "Current installed release. No update is published.",
-    "asset":  "",
-    "size":  0
+  "version": "0.1.1",
+  "asset": "K18-File-Compressor-Setup-0.1.1.exe",
+  "size": 19951106,
+  "sha256": "bab9352f285e76878c846e235f707894bdbd9bbc2a9155ba3cba38dd7f54d799",
+  "signature": "sZ86dIsUA7Zcn7ZrS0CVfYxuRomuvKB1aVmBnyN5j9dFWjKkDcO8y5dQoBrgv9xWbekemmMG1OQffETRGJM6CQ==",
+  "google_drive_file_id": "1zWrdFtopSFyzxNTwcp8ImRtAehoBHcpM",
+  "notes": "Adds Xbox PC game compression by skipping only GDK-protected executables, corrects Xbox savings estimates, and fixes valid Windows-named folders inside games."
 }
