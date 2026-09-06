@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
-  "asset": "K18-File-Compressor-Setup-0.1.1.exe",
-  "size": 19951106,
-  "sha256": "bab9352f285e76878c846e235f707894bdbd9bbc2a9155ba3cba38dd7f54d799",
-  "signature": "sZ86dIsUA7Zcn7ZrS0CVfYxuRomuvKB1aVmBnyN5j9dFWjKkDcO8y5dQoBrgv9xWbekemmMG1OQffETRGJM6CQ==",
-  "google_drive_file_id": "1zWrdFtopSFyzxNTwcp8ImRtAehoBHcpM",
-  "notes": "Adds Xbox PC game compression by skipping only GDK-protected executables, corrects Xbox savings estimates, and fixes valid Windows-named folders inside games."
+  "version": "0.1.2",
+  "asset": "K18-File-Compressor-Setup-0.1.2.exe",
+  "size": 19959509,
+  "sha256": "58a5cb7fdedc4fe431a69e70e9a5cbf2760163fb2e74cca9fbf51537caa8166d",
+  "signature": "OfV31wvz7ZHbaFpXNaXghZwZHpmXOjNp7HoAwOeI78aUOrRlYjfoJs1MVxrQ29LSvcLy80mi2eA7Mww9Sj5zCg==",
+  "google_drive_file_id": "12RpK2CN4wmbojo-ceTO8J1JiJOcC2La2",
+  "notes": "Checks for fresh app updates on every launch and bypasses cached metadata. Includes Xbox game compression, Xbox-aware savings estimates, and valid Windows-named game folder support."
 }
