@@ -1,9 +1,9 @@
 {
   "version": "0.1.2",
   "asset": "K18-File-Compressor-Setup-0.1.2.exe",
-  "size": 19959509,
-  "sha256": "58a5cb7fdedc4fe431a69e70e9a5cbf2760163fb2e74cca9fbf51537caa8166d",
-  "signature": "OfV31wvz7ZHbaFpXNaXghZwZHpmXOjNp7HoAwOeI78aUOrRlYjfoJs1MVxrQ29LSvcLy80mi2eA7Mww9Sj5zCg==",
-  "google_drive_file_id": "12RpK2CN4wmbojo-ceTO8J1JiJOcC2La2",
-  "notes": "Checks for fresh app updates on every launch and bypasses cached metadata. Includes Xbox game compression, Xbox-aware savings estimates, and valid Windows-named game folder support."
+  "size": 20634351,
+  "sha256": "9dd49f8a261ef4f35fd9575d15a2a0ea0eb0e30c5c8c4c9c76f8fc3baa41babc",
+  "signature": "b5u9BCcjz8IUVnmCzh1dt7Ao8IkB0KMkKZIPGvug86Pk6PUlqlPoOpVJWamfsZcn97sqVguaGbRkbvaopBuPDA==",
+  "google_drive_file_id": "1FyIXU-fhAPP90G7nKv121LLp8qlYOnIA",
+  "notes": "Checks for fresh app updates on every launch. Includes full-resolution K18 branding, Xbox game compression, Xbox-aware savings estimates, and valid Windows-named game folder support."
 }
