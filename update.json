@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
-  "asset": "K18-File-Compressor-Setup-0.1.3.exe",
-  "size": 20639461,
-  "sha256": "072e2a7b72e19745ab6bac599f14362a3dc811f9e7c85c2a7d50c79d1dac97c3",
-  "signature": "00RPoO/wf7lsB/OlmPvqU1APJ2zAmn1Hgz5w2rtVHKl8ZB6zPsjJJcNnTkK9LDxGOJX2AIGY7L+YfaSxAVUNAQ==",
-  "google_drive_file_id": "10kGd2pCsZbSwelPvSX3JVidUUhBLPtUP",
-  "notes": "Moves app updates to Google-authenticated Cloud Run downloads backed by private Cloud Storage. Requests only Google sign-in identity instead of Drive access and preserves size, SHA-256, and K18 signature verification."
+  "version": "0.1.4",
+  "asset": "K18-File-Compressor-Setup-0.1.4.exe",
+  "size": 20459803,
+  "sha256": "028a8b084739007aca31d84f942c75bec4246d4fe18c6f80ed1aeb396c76a68b",
+  "signature": "NjQyRntyH1EvCzHx6g7VoAjSdhNzOAMELW+lAZMFQ/Wr8smFJdfwjJsOwBqtTb+sHXnWWmcAbESWi1KO8tFaDQ==",
+  "google_drive_file_id": "",
+  "notes": "Clearer Windows icon, live large-file ETA, expandable drive contents, library folder controls, Help/About pages, and sidebar update checking."
 }
