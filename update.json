@@ -1,9 +1,9 @@
 {
-  "version": "0.1.4",
-  "asset": "K18-File-Compressor-Setup-0.1.4.exe",
-  "size": 20459803,
-  "sha256": "028a8b084739007aca31d84f942c75bec4246d4fe18c6f80ed1aeb396c76a68b",
-  "signature": "NjQyRntyH1EvCzHx6g7VoAjSdhNzOAMELW+lAZMFQ/Wr8smFJdfwjJsOwBqtTb+sHXnWWmcAbESWi1KO8tFaDQ==",
+  "version": "0.1.5",
+  "asset": "K18-File-Compressor-Setup-0.1.5.exe",
+  "size": 20474893,
+  "sha256": "c7f96795b6ad512f9a48596f5b1aad21750ca0f7d74779459822b5a2e7a7eddd",
+  "signature": "p5dJwURe9iF82cDoufCv29/NjZ0++3R4Dam4qppXHqFv9zoxWS6e9hx5p4gpBkgRdswLWKIgByNLuA0Cmq2uCA==",
   "google_drive_file_id": "",
-  "notes": "Clearer Windows icon, live large-file ETA, expandable drive contents, library folder controls, Help/About pages, and sidebar update checking."
+  "notes": "Direct Cloud Run update checks, compact tables without red alternate rows, top About and Help menus, stable calibrated savings estimates, clearer icon, live ETA, expandable drives, and folder controls."
 }
